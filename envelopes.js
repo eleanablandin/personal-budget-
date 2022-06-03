@@ -1,5 +1,4 @@
 
-
 const envelopes = [
     {
         id: 1,
@@ -12,3 +11,5 @@ const envelopes = [
        bills: 100
    }
 ];
+
+module.exports = {envelopes};
